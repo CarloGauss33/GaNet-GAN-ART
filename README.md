@@ -2,3 +2,6 @@
 
 ### Disclaimer
 All the material scrapped used to train the model, is intended for only academic purposes. If some image on the dataset has proprietary copyright, email me at cparedesr@uc.cl, to quickly take down that image from the dataset
+
+
+I will not upload the dataset, only a part of the downloader bot
