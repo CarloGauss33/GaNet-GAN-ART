@@ -1,4 +1,4 @@
 image_scrapper/data/*
 env.py
 image_scrapper/.env
-image_scrapper/image_scrapper
+image_scrapper/images/*
